@@ -1,0 +1,11 @@
+git clone https://github.com/chawlaaditya8/polymer-workshop.git
+git clone https://github.com/chawlaaditya8/contacts-app.git
+git clone https://github.com/chawlaaditya8/polycasts.git
+git clone https://github.com/chawlaaditya8/curly-fibula.git
+git clone https://github.com/chawlaaditya8/zealous-tatertot.git
+git clone https://github.com/chawlaaditya8/day1.git
+git clone https://github.com/chawlaaditya8/learnxinyminutes-docs.git
+git clone https://github.com/chawlaaditya8/Mozpacers.github.io.git
+git clone https://github.com/chawlaaditya8/procastination.git
+git clone https://github.com/chawlaaditya8/learnGitBranching.git
+git clone https://github.com/chawlaaditya8/repository-cloner.git
