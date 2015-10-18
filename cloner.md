@@ -5,7 +5,9 @@
 - git clone https://github.com/chawlaaditya8/zealous-tatertot.git
 - git clone https://github.com/chawlaaditya8/day1.git
 - git clone https://github.com/chawlaaditya8/learnxinyminutes-docs.git
-- git clone https://github.com/chawlaaditya8/Mozpacers.github.io.git
+- git clone -b develop https://github.com/chawlaaditya8/Mozpacers.github.io.git
 - git clone https://github.com/chawlaaditya8/procastination.git
 - git clone https://github.com/chawlaaditya8/learnGitBranching.git
 - git clone https://github.com/chawlaaditya8/repository-cloner.git
+- git clone https://github.com/PolyPolymer/PolyPolymer.github.io.git
+- git clone https://github.com/bartapart/bartapart.github.io.git
